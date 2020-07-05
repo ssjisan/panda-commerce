@@ -21,3 +21,38 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(60deg, #F09420, #F7C51E);
+}
+
+.cat2{
+    background-image: linear-gradient(60deg, #EB1867, #EC2B76);
+}
+.cat3{
+    background-image: linear-gradient(60deg, #4279FF, #3710F8);
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
